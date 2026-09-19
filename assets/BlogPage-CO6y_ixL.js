@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-9YgKe2Eq.js";import{t}from"./BlogSimpleCards-BjgKsUBB.js";var n=e(),r=()=>(0,n.jsx)(t,{tag:`Blog`,title:`Latest Articles`,description:`Stay updated with our latest insights and news`,textAnimation:`slide-up`});export{r as default};

@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-9YgKe2Eq.js";import{t}from"./HeroExpand-C9vYOEDZ.js";var n=e(),r=()=>(0,n.jsx)(t,{title:`Webild`,imageSrc:`https://storage.googleapis.com/webild/default/placeholders/placeholder-1.webp`,primaryButton:{text:`Get Started`,href:`#`},secondaryButton:{text:`Learn More`,href:`#`}});export{r as default};

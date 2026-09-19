@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-9YgKe2Eq.js";import{t}from"./LoaderReveal-CRknZ0Th.js";var n=e(),r=()=>(0,n.jsx)(t,{imageSrc:`https://storage.googleapis.com/webild/default/templates/web-agency-2/team-1.webp`,title:`Webild`});export{r as default};

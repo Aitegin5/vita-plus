@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-9YgKe2Eq.js";import{t}from"./utils-EIHTpZTP.js";var n=e(),r=({className:e=``,...r})=>(0,n.jsx)(`input`,{className:t(`w-full h-9 px-3 rounded secondary-button text-secondary-cta-text text-sm`,`placeholder:text-secondary-cta-text/50 focus:outline-none`,e),...r});export{r as t};
